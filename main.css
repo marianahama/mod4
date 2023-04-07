@@ -1,0 +1,12 @@
+*{box-sizing: border-box; margin:0px; padding:5px;}
+
+header li {display: inline}
+
+.container {    width: 1366px;
+margin: 0 auto 0 auto}
+
+.articles{display:flex; flex-wrap:wrap; justify-content: space-between;}
+
+
+.articles article img {height:180px;}
+.articles article {width: 33%;}
